@@ -1,3 +1,4 @@
+//
 function getClima() {
     $.ajax({
         method: 'get',
